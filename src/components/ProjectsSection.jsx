@@ -58,7 +58,7 @@ const projects = [
     image: "/projects/project3.png",
     tags: ["ARIMA", "ANOVA", "Time-Series"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/AakanshSing/Regression-analysis",
   },
 ];
 
