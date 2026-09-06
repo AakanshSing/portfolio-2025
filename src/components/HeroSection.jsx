@@ -21,7 +21,8 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I am final year student at IIT Kharagpur, pursuing a B.Tech in Civil Engineering and M.Tech in Financial Engineering.
+            I am a Consultant at TCG Digital, where I focus on solving problems related to Software Engineering and Data Science,I recently 
+            graduated from IIT Kharagpur (B.Tech in Civil Engineering and M.Tech in Financial Engineering).
             My interests lie in the intersection of Data Science and finance, with a passion for exploring innovative solutions in these fields.
           </p>
 
