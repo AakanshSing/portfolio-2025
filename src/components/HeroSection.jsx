@@ -21,9 +21,7 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I am a Consultant at TCG Digital, where I focus on solving problems related to Software Engineering and Data Science. I recently 
-            graduated from IIT Kharagpur (B.Tech in Civil Engineering and M.Tech in Financial Engineering).
-            My interests lie in the intersection of Data Science and finance, with a passion for exploring innovative solutions in these fields.
+            I am a Consultant at TCG Digital, working across Software Engineering and Data Science to solve complex problems. I graduated from IIT Kharagpur with a dual degree in Civil Engineering and Financial Engineering, and I’m particularly interested in applying data and machine learning to finance.
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
